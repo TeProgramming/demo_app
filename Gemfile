@@ -6,6 +6,11 @@ gem 'rails', '3.2.8'
 
 gem "heroku"
 
+# MongoDB..
+gem 'bson_ext'
+gem 'mongoid'
+gem 'mongo'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
